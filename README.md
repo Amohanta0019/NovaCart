@@ -1,6 +1,6 @@
-# 🛒 SpringEcom — Full Stack E-Commerce Application
+# 🛒 NovaCart — Full Stack E-Commerce Application
 
-SpringEcom is a full-stack e-commerce web application built using **Spring Boot, React, MySQL, and Maven**.
+NovaCart is a full-stack e-commerce web application built using **Spring Boot, React, MySQL, and Maven**.
 
 The application provides product management, product search, shopping cart functionality, checkout/order placement, order management, and product image handling.
 
