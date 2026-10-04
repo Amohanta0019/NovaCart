@@ -1,0 +1,16 @@
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\config\WebConfig.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\controller\HelloController.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\controller\OrderController.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\controller\ProductController.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\dto\OrderItemRequest.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\dto\OrderItemResponse.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\dto\OrderRequest.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\dto\OrderResponse.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\Order.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\OrderItem.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\model\Product.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\repository\OrderRepo.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\repository\ProductRepo.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\service\OrderService.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\service\ProductService.java
+D:\Udemy\SpringBootMVCProject\SpringEcom\src\main\java\com\telusko\SpringEcom\SpringEcomApplication.java
